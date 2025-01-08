@@ -1,0 +1,10 @@
+{
+  "domain": "vawter.tech",
+  "repositories": [
+    {
+      "prefix": "eiter",
+      "subs": [],
+      "url": "https://github.com/bobvawter/go-eiter"
+    }
+  ]
+}
