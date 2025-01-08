@@ -5,6 +5,11 @@
       "prefix": "eiter",
       "subs": [],
       "url": "https://github.com/bobvawter/go-eiter"
+    },
+    {
+      "prefix": "stopper",
+      "subs": [],
+      "url": "https://github.com/bobvawter/go-stopper"
     }
   ]
 }
