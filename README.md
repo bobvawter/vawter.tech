@@ -1,9 +1,9 @@
 # Robert "Bob" Vawter
 
 ## Contact Information
-- **Email:** bob@vawter.org
+- **Email:** [bob@vawter.org](mailto:bob@vawter.org)
 - **GitHub:** [github.com/bobvawter](https://github.com/bobvawter)
-- **LinkedIn:** [linkedin.com/in/bobvawter](www.linkedin.com/in/bobvawter)
+- **LinkedIn:** [linkedin.com/in/bobvawter](https://www.linkedin.com/in/bobvawter)
 
 ## Summary
 
