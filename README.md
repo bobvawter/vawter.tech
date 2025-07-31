@@ -17,6 +17,11 @@ full-time remote since 2008.
 
 ## Professional Experience
 
+### [CNC.LLC](https://cnc.llc)
+**Owner**
+*June 2019 - Present*
+- Manage and operate a five-axis machine shop and R&D service in Sterling, VA.
+
 ### Cockroach Labs
 
 **Principal Field Software Engineer** *August 2024 - November 2024* <br/>
@@ -62,10 +67,3 @@ full-time remote since 2008.
 **Owner & Developer**
 *1999 - 2006*
 - Built a Java-based online form and data collection system, before Servlets or JSP was a thing.
-
-## Other Ventures
-
-### [CNC.LLC](https://cnc.llc)
-**Owner & Programmer**
-*June 2019 - Present*
-- Manage and operate a five-axis machine and prototyping shop in Sterling, VA.
