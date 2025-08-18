@@ -15,6 +15,11 @@
       "prefix": "notify",
       "subs": [],
       "url": "https://github.com/bobvawter/go-notify"
+    },
+    {
+      "prefix": "mdcmux",
+      "subs": [],
+      "url": "https://github.com/bobvawter/mdcmux"
     }
   ]
 }
