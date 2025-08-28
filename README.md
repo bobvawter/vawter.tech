@@ -12,7 +12,7 @@ window and a strong cup of coffee. I'm used to getting dropped into the middle o
 problems with my technical and educational acumen. I've been working in Go for the past seven years and have worked with
 Java, Kotlin, JS, Typescript and various other languages over the years.
 
-I'm based in [Reston, Virginia](https://en.wikipedia.org/wiki/Reston,_Virginia) and am open to travel. I've been
+I'm based in [Reston, Virginia](https://maps.app.goo.gl/SGJ3N5Ha4KEoFUQ96) and am open to travel. I've been
 full-time remote since 2008.
 
 ## Professional Experience
