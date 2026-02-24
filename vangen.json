@@ -8,7 +8,7 @@
     },
     {
       "prefix": "stopper",
-      "subs": ["v2", "compat/v2"],
+      "subs": ["v2", "compat"],
       "url": "https://github.com/bobvawter/go-stopper"
     },
     {
