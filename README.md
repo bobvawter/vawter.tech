@@ -9,20 +9,25 @@
 
 With 20+ years of software development and operations experience, there's nothing I can't figure out, given a terminal
 window and a strong cup of coffee. I'm used to getting dropped into the middle of customer engagements to solve sticky
-problems with my technical and educational acumen. I've been working in Go for the past seven years and have worked with
-Java, Kotlin, JS, Typescript and various other languages over the years.
+problems with my technical and educational acumen. I've been working in Go for the past eight years and have worked with
+Java, Kotlin, JS, Typescript and various other languages over my career.
 
 I'm based in [Reston, Virginia](https://maps.app.goo.gl/SGJ3N5Ha4KEoFUQ96) and am open to travel. I've been
 full-time remote since 2008.
 
 ## Professional Experience
 
+### [Just Cats Clinic](https://justcatsclinic.com)
+**Cat Technology Officer (Part Time)**
+*January 2026 - Present*
+- Automating all the things at a 40-person veterinary clinic in Reston, VA.
+
 ### [CNC.LLC](https://cnc.llc)
 **Owner**
 *June 2019 - Present*
 - Manage and operate a five-axis machine shop and R&D service in Sterling, VA.
 
-### Cockroach Labs
+### [Cockroach Labs](https://cockroachlabs.com)
 
 **Principal Field Software Engineer** *August 2024 - November 2024* <br/>
 **Senior Staff Field Engineer** *June 2020 - August 2024*
